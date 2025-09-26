@@ -22,7 +22,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mí</h3>
+</br>
+
+<h1 align="left">👩‍💻  Sobre mí</h1>
 
 ###
 
@@ -30,16 +32,16 @@
 
 ###
 
-<div align="left">
-  <a href="https://linktr.ee/erjavi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
 
 ###
 
+</br>
+
 # 💻 Plataformas con experiencia:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
+
+</br>
+
 # 📊 Estadisticas:
 ![](https://github-readme-stats.vercel.app/api?username=JaPM117&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JaPM117&theme=default&hide_border=false)<br/>
